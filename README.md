@@ -16,7 +16,7 @@ LCO Workout App is a prototype of Fitness training app . It features:
 - Exercise information portal : It can store all information regarding various exercises
 - Dark Theme (Android 10/+, portable to other versions) 
 
-This is a mockup which can temporarily perform these features. This was a challange put up [youtuber Hitesh Choudhary](https://www.youtube.com/watch?v=VFrKjhcTAzE).
+This is a mockup which can temporarily perform these features. This was a challange put up [youtuber Hitesh Choudhary](https://www.youtube.com/watch?v=VFrKjhcTAzE). The main requirements are listed [here](https://bitbucket.org/hiteshchoudhary/lco-workout-app-challenge/raw/9ad564a5682f7e9a6db8aed808114b84191ef229/GYM%20Client%20requirement.txt) .
 This app took 2 days to complete.
 
 ## Technical specs:
@@ -48,7 +48,7 @@ This app took 2 days to complete.
 </p>
 
 
----
+----
 
 ## [Download Apk Now](https://github.com/root-ansh/lco/blob/master/screenshots_and_apk/app.apk?raw=true) 
 
